@@ -1,0 +1,19 @@
+{
+  "name": "movie-api-rest-javascript",
+  "version": "1.0.0",
+  "description": "Practica de consumo de API REST con javaScript y axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasegpla/movie-api-rest-javascript.git"
+  },
+  "author": "nicolas edixon garcia pineros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasegpla/movie-api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/nicolasegpla/movie-api-rest-javascript#readme"
+}
